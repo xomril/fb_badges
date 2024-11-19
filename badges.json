@@ -18,14 +18,14 @@
    {
     "id": 3,
     "name": "e2e-champion",
-    "emoji": "🏆🧪✅"
+    "emoji": "🏆🧪✅",
     "color": "#ffffff",
     "bgColor": "#4934eb",
     "text": "E2E champion"
   },
    {
     "id": 4,
-     "emoji": "🤝🧩🔗"
+     "emoji": "🤝🧩🔗",
     "name": "integration-champion",
     "color": "#ffffff",
     "bgColor": "#4934eb",
