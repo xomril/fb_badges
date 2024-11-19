@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "emoji": "✨",
     "name": "creator",
     "color": "#c0c0c0",
     "bgColor": "#ffffff",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "emoji": ":🛠️",
     "name": "dev-tool member",
     "color": "#ffffff",
     "bgColor": "#ff00dd",
@@ -16,12 +18,14 @@
    {
     "id": 3,
     "name": "e2e-champion",
+    "emoji": "🏆🧪✅"
     "color": "#ffffff",
     "bgColor": "#4934eb",
     "text": "E2E champion"
   },
    {
     "id": 4,
+     "emoji": "🤝🧩🔗"
     "name": "integration-champion",
     "color": "#ffffff",
     "bgColor": "#4934eb",
