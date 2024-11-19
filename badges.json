@@ -1,27 +1,27 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "creator",
     "color": "#c0c0c0",
     "bgColor": "#ffffff",
     "text": "The badges cretor"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "dev-tool member",
     "color": "#ffffff",
     "bgColor": "#ff00dd",
     "text": "Member of the devtools team"
   },
    {
-    "id": "3",
+    "id": 3,
     "name": "e2e-champion",
     "color": "#ffffff",
     "bgColor": "#4934eb",
     "text": "E2E champion"
   },
    {
-    "id": "4",
+    "id": 4,
     "name": "integration-champion",
     "color": "#ffffff",
     "bgColor": "#4934eb",
